@@ -1,2 +1,2 @@
 # acl
-acl/ rpm package
+acl rpm package
